@@ -7,6 +7,7 @@ if (empty($_SESSION['username'])) {
 <!DOC_TYPE html>
 <html>
 <head>
+	
 	<title> User registration </title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
